@@ -190,7 +190,7 @@ class DoublyLinkedList():
 
 
 '''TESTING'''
-
+'''
 print('1) Testing size, isEmpty, peekFirst(), peekLast(), add() \n------------------------------\n')
 dllist = DoublyLinkedList()
 print(dllist.size()) # 0
@@ -321,7 +321,7 @@ dllist.add(new_node)
 dllist.add(new_node2)
 dllist.add(new_node3)
 print(dllist.toString()) # [Test->Test->Test->]
-
+'''
 
 
 
